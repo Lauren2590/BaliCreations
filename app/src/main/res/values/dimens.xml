@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Depth Size. -->
+    <dimen name="twoHundred_dp">200dp</dimen>
+    <dimen name="oneHundredFifty_dp">150dp</dimen>
+    <dimen name="twelve_dp">12dp</dimen>
+    <dimen name="oneHundredEighty_dp">180dp</dimen>
+    <dimen name="oneHundredTwenty_dp">120dp</dimen>
+    <dimen name="ninety_dp">90dp</dimen>
+
+    <!-- Font or Text Size. -->
+    <dimen name="forty_sp">40sp</dimen>
+    <dimen name="fifteen_sp">15sp</dimen>
+
+
+</resources>
